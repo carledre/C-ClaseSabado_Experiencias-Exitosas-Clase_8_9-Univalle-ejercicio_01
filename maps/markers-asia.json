@@ -1,15 +1,28 @@
 markers_asia = [
+   
+ {
+     "name": "South Africa",
+     "url": "https://en.wikipedia.org/wiki/South_Africa",
+     "lat": -30.559482,
+     "lng": 22.937506
+   },
+
   {
-     "name": "Ireland",
-     "url": "https://en.wikipedia.org/wiki/Ireland",
-     "lat": 53.412910,
-     "lng": -8.243890
+     "name": "Madagascar",
+     "url": "https://en.wikipedia.org/wiki/Madagascar",
+     "lat": -18.766947,
+     "lng": 46.869107
    },
    {
-     "name": "Scotland",
-     "url": "https://en.wikipedia.org/wiki/Scotland",
-     "lat": 56.490671,
-     "lng": -4.202646
+     "name": "Taiwan",
+     "url": "https://en.wikipedia.org/wiki/Taiwan",
+     "lat": 23.697810,
+     "lng": 120.960515
    },
-   ];
-   
+   {
+     "name": "Japan",
+     "url": "https://en.wikipedia.org/wiki/Japan",
+     "lat": 36.204824,
+     "lng": 138.252924
+   }
+];
