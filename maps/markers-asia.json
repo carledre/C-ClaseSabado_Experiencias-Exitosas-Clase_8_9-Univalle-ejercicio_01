@@ -1,0 +1,15 @@
+markers_asia = [
+  {
+     "name": "Ireland",
+     "url": "https://en.wikipedia.org/wiki/Ireland",
+     "lat": 53.412910,
+     "lng": -8.243890
+   },
+   {
+     "name": "Scotland",
+     "url": "https://en.wikipedia.org/wiki/Scotland",
+     "lat": 56.490671,
+     "lng": -4.202646
+   },
+   ];
+   
